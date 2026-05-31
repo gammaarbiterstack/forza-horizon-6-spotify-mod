@@ -1,4 +1,5 @@
 # Forza Horizon 6 Spotify Mod
+![Banner](banner.png)
 
 Enhance your music experience in Forza Horizon 6 with quick Spotify controls and playlist management.
 
